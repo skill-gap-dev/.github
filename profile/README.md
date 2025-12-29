@@ -22,19 +22,19 @@ We're a team of passionate developers focused on bridging the skill gap in the t
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/identicons/carolina.png" width="100px;" alt="Profile picture of Carolina López De La Madriz"/><br />
+      <img src="https://github.com/carolinalopezdelamadriz.png" width="100px;" alt="Profile picture of Carolina López De La Madriz"/><br />
       <b>Carolina López De La Madriz</b>
     </td>
     <td align="center">
-      <img src="https://github.com/identicons/emma.png" width="100px;" alt="Profile picture of Emma Rodríguez Hervas"/><br />
+      <img src="https://github.com/emmarhv.png" width="100px;" alt="Profile picture of Emma Rodríguez Hervás"/><br />
       <b>Emma Rodríguez Hervas</b>
     </td>
     <td align="center">
-      <img src="https://github.com/identicons/alvaro.png" width="100px;" alt="Profile picture of Álvaro Martín Ruiz"/><br />
+      <img src="https://github.com/alvaromartinruiz.png" width="100px;" alt="Profile picture of Álvaro Martín Ruiz"/><br />
       <b>Álvaro Martín Ruiz</b>
     </td>
     <td align="center">
-      <img src="https://github.com/identicons/iker.png" width="100px;" alt="Profile picture of Iker Rosales Saiz"/><br />
+      <img src="https://github.com/ikerosales.png" width="100px;" alt="Profile picture of Iker Rosales Saiz"/><br />
       <b>Iker Rosales Saiz</b>
     </td>
   </tr>
