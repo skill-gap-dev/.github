@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Bridging+the+gap+in+tech+skills;Building+the+future%2C+one+commit+at+a+time;Open+source+enthusiasts;Always+learning%2C+always+growing)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Bridging+the+gap+in+tech+skills;Building+the+future%2C+one+commit+at+a+time;Open+source+enthusiasts;Always+learning%2C+always+growing)
 
 </div>
 
