@@ -23,19 +23,19 @@ We're a team of passionate developers focused on bridging the skill gap in the t
   <tr>
     <td align="center">
       <img src="https://github.com/carolinalopezdelamadriz.png" width="100px;" alt="Profile picture of Carolina López De La Madriz"/><br />
-      <b>Carolina López De La Madriz</b>
+      <b><a href="https://github.com/carolinalopezdelamadriz">Carolina López De La Madriz</a></b>
     </td>
     <td align="center">
       <img src="https://github.com/emmarhv.png" width="100px;" alt="Profile picture of Emma Rodríguez Hervás"/><br />
-      <b>Emma Rodríguez Hervas</b>
+      <b><a href="https://github.com/emmarhv">Emma Rodríguez Hervas</a></b>
     </td>
     <td align="center">
       <img src="https://github.com/alvaromartinruiz.png" width="100px;" alt="Profile picture of Álvaro Martín Ruiz"/><br />
-      <b>Álvaro Martín Ruiz</b>
+      <b><a href="https://github.com/alvaromartinruiz">Álvaro Martín Ruiz</a></b>
     </td>
     <td align="center">
       <img src="https://github.com/ikerosales.png" width="100px;" alt="Profile picture of Iker Rosales Saiz"/><br />
-      <b>Iker Rosales Saiz</b>
+      <b><a href="https://github.com/ikerosales">Iker Rosales Saiz</a></b>
     </td>
   </tr>
 </table>
